@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @bayirdan
+- 👀 I’m interested in MEVN stack
