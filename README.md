@@ -1,2 +1,1 @@
-- 👋 Hi, I’m @bayirdan
-- 👀 I’m interested in MEVN stack
+Hi, I’m Burkay. I interested in MEVN Stack.
