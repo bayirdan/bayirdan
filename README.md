@@ -1,1 +1,1 @@
-Hi, I’m Burkay. I interested in MEVN Stack.
+Hi, I’m Burkay. I interested in MERN Stack.
